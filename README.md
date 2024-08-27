@@ -14,4 +14,4 @@ I'm committed to continuous learning and love sharing my knowledge with others. 
 When I'm not coding through the night (often indulging in cheese and my favorite TV series), I'm probably hanging out with my cat, dreaming of a technological utopia. I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.
 
 ### 📫 Let's Connect
-Feel free to connect with me through my [social media accounts](https://github.com/AnnaH00k) linked on my GitHub profile!
+Feel free to connect with me through my social media accounts linked on my GitHub profile!
