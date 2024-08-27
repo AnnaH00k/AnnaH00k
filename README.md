@@ -1,4 +1,5 @@
 ## Welcome to My GitHub! ![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaH00k&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical)
 
 Hi there! I'm a passionate 23-year-old student and frontend developer with a focus on building innovative and engaging digital experiences. Currently, I'm pursuing a degree in Computer Science and working part-time at a dynamic startup called **CLYE**.
 
@@ -9,7 +10,7 @@ Hi there! I'm a passionate 23-year-old student and frontend developer with a foc
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnnaH00k&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical)
+
 
 
 ### 🚀 Featured Project: [Hooked0nTech](https://github.com/AnnaH00k/hooked0ntech)
