@@ -15,7 +15,7 @@ I'm committed to continuous learning and love sharing my knowledge with others. 
 
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnnaH00k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnnaH00k)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
