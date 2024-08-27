@@ -13,13 +13,11 @@ Hi there! I'm a passionate 23-year-old student and frontend developer with a foc
 When I'm not coding through the night (often indulging in cheese 🧀 and my favorite TV series📺), I'm probably hanging out with my cat🐄, dreaming of a technological utopia. I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.
 I'm committed to continuous learning and love sharing my knowledge with others. Some of my repositories are featured in [YouTube videos](https://www.youtube.com/@hooked0nTech) where I share my coding journey.
 
-
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnaH00k)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
+### Currently learning
+<img src="https://skillicons.dev/icons?i=py,blender,react,unreal" />
 
 
 
