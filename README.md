@@ -14,7 +14,7 @@ I believe in technology's power to create better connections, structure, and ult
 I'm committed to continuous learning and love sharing my knowledge with others so feel free to search through my public repositorys.
 
 ### Currently learning
-<img src="https://skillicons.dev/icons?i=kotlin,blender" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,blender" />
 
 
 
