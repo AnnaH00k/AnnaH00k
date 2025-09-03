@@ -1,5 +1,5 @@
 ## Welcome to My GitHub! ![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical&langs_count=10)
 
 ### 🛠️ My Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
