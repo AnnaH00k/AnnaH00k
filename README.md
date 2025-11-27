@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🎉 A Bit About Me
-Hi there! I'm a 24-year-old student and frontend developer with a focus on building innovative and engaging digital experiences. Currently, I'm pursuing a degree in Computer Science.
+Hi there! I'm a 25-year-old student and frontend developer with a focus on building innovative and engaging digital experiences. Currently, I'm pursuing a degree in Computer Science.
 I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.
 I'm committed to continuous learning and love sharing my knowledge with others so feel free to search through my public repositorys.
 
