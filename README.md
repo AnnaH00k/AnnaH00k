@@ -16,9 +16,10 @@
 </p>
 
 ### 🎉 A Bit About Me
-Hi there! I'm a 25-year-old student and frontend developer with a focus on building innovative and engaging digital experiences. Currently, I'm pursuing a degree in Computer Science.  
+Hi there! I'm a 25-year-old developer specializing in cross-platform mobile and frontend development with Kotlin, Swift, TypeScript, and Next.js.
+I also work with Docker, Proxmox, and SQL databases to support reliable backend and deployment setups.
+My public repositories showcase ongoing projects, technical experiments, and reusable components that I refine over time.
 I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.  
-I'm committed to continuous learning and love sharing my knowledge with others, so feel free to search through my public repositories.
 
 ### Currently learning
 <p align="center">
