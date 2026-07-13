@@ -21,7 +21,13 @@ I also work with Docker, Proxmox, and SQL databases to support reliable backend 
 My public repositories showcase ongoing projects, technical experiments, and reusable components that I refine over time.
 I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.  
 
+
 ### Currently learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,blender" />
+</p>
+
+### Powered By
+<p align="center">
+  🐈‍⬛ Black Cat &nbsp;&nbsp; 🐅 Tabby Cat &nbsp;&nbsp; 🧉 Mate &nbsp;&nbsp; ☕ Hot Chocolate
 </p>
