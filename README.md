@@ -1,26 +1,9 @@
-## Welcome to My GitHub! 
-![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
+## Welcome to My GitHub! ![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-omega-liart-55.vercel.app/api?username=AnnaH00k&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=AnnaH00k&theme=radical&hide_border=true" />
+<p align="center">  
+   <img  src="https://github-readme-stats-omega-liart-55.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical&langs_count=10&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-omega-liart-55.vercel.app/api/top-langs/?username=AnnaH00k&layout=compact&theme=radical&langs_count=8&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaH00k&theme=redical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/AnnaH00k/AnnaH00k/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-### 🚀 Projects
-<p align="center">
-  <a href="https://github.com/AnnaH00k/co2-zone">co2-zone</a> •
-  <a href="https://github.com/AnnaH00k/GhostNetFishing">GhostNetFishing</a> •
-  <a href="https://github.com/AnnaH00k/hookintech">hookintech</a>
-</p>
 
 ### 🛠️ My Tech Stack
 <p align="center">
