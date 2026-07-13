@@ -1,11 +1,5 @@
 ## Welcome to My GitHub! ![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
 
-
-## Welcome to My GitHub!
-![Profile Views](https://komarev.com/ghpvc/?username=AnnaH00k&color=blueviolet&style=flat-square)
-
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnnaH00k&theme=radical&hide_border=true" />
 </p>
