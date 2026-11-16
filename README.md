@@ -32,7 +32,7 @@
 </p>
 
 ### 🎉 A Bit About Me
-Hi there! I'm a 25-year-old developer currently specializing in cross-platform mobile and frontend development with Kotlin Multiplatform.
+Hi there! I'm a 26-year-old developer currently specializing in cross-platform mobile and frontend development with Kotlin Multiplatform.
 My public repositories showcase ongoing projects, technical experiments, and reusable components that I refine over time.
 I believe in technology's power to create better connections, structure, and ultimately, a more organized and happy world.  
 
